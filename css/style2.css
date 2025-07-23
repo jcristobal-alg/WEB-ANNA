@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+ font-family: "Funnel Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+ 
+}
+
+body{
+    background-color: rgb(15, 15, 15);
+}
+
+#header{
+    width: 100%;
+    height: 130px;
+    background-color: ;
+}
+
+.equis{
+    scale: 16%;
+    position: fixed;
+    top: -60px;
+    left: -110px;
+    background-color: ;
+}
+
+.equis:hover{
+    opacity: 80%;
+}
+
+.titol{
+     font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  font-size: 3.2rem;
+  text-align: center;
+  position: relative;
+  top: 36px;
+}
+
+.esp{
+
+     font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: italic;
+  color: white;
+  font-size: 3.2rem;
+}
+
+.subtitol{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 38px;
+    font-size: 0.85rem;
+}
+
+#contenedor{
+    width: 100%;
+    height: 540px;
+    background-color: ;
+    position: relative;
+    margin-top: 7%;
+}
+
+#contenedor2{
+    width: 1030px;
+    height:540px ;
+    background-color:  ;
+    position: relative;
+    margin: 0 auto;
+}
+
+#img1{
+    width: 260px;
+    height: 320px;
+    background-color: white;
+    position: relative;
+    top: 40px;
+    overflow: hidden;
+}
+
+#img2{
+    width: 260px;
+    height: 320px;
+    background-color: white;
+    position: relative;
+    top: -150px;
+    float: right;
+    overflow: hidden;
+}
+
+.titol2{
+     font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  color: white;
+  font-size: 3.2rem;
+  text-align: center;
+ 
+;
+
+}
+
+.titol3{
+     font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  color: white;
+  font-size: 3.2rem;
+  text-align: center;
+  margin: 0 auto
+;
+
+font-style: italic;
+}
+
+#contenedor3{
+    width: 200px;
+    height: 320px;
+    background-color: ;
+    position: relative;
+    margin: 0 auto;
+    top: -220px;
+}
+
+.esp1{
+    position: relative;
+    left: -39px;
+}
+
+.esp2{
+    position: relative;
+    right: 25px;
+}
+
+.imatge1{
+width: 100%;
+}
+
+#total1{
+    width: 110px;
+    height: 45px;
+    background-color: ;
+    float: left;
+    position: relative;
+    top: 175px;
+}
+
+#total2{
+    width: 110px;
+    height: 22.25px;
+    background-color: ;
+    float: left;
+    position: relative;
+    top: 8px;
+    
+}
+
+.logo{
+    width: 21px;
+    position: relative;
+    
+    float: left;
+}
+
+.logotxt{
+    font-size: 0.85rem;
+    float:left;
+    color: white;
+    position: relative;
+    left: 10px;
+    top: 2px;
+}
+
+.logotxt:hover{
+    opacity: 80%;
+}
